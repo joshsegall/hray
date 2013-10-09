@@ -39,6 +39,8 @@ program run with less memory, but as it stands I was maxing out my laptop with
 more than 9 samples. Oh, and of course I had to leave my mark by substituting
 my initials.
 
+A partially deobfuscated version is available as `hray-annotated.hs`
+
 Any improvements or Haskell tips are welcome.
 
 [1]: http://www.cs.utah.edu/~aek/code/card.cpp
